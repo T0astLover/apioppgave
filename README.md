@@ -1,2 +1,3 @@
 # apioppgave
-starten på noe helt sykttttttt bæsj
+api oppgave  
+inneholder CatFact og pokemon info og vær i oslo.
